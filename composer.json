@@ -3,8 +3,7 @@
     "description": "various Traits under the namespace Aetonsi\\Traits\\",
     "type": "library",
     "require": {
-        "php": ">=4",
-        "aetonsi/polyfills": "^1.0"
+        "php": ">=4"
     },
     "license": "WTFPL",
     "authors": [
