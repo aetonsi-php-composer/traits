@@ -1,7 +1,6 @@
 {
     "name": "aetonsi/traits",
     "description": "various Traits under the namespace Aetonsi\\Traits\\",
-    "version": "0.1.0",
     "type": "library",
     "require": {
         "php": ">=4",

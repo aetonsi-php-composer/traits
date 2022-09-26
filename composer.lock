@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "05cf30cd7ca8c9cc6c5446f0aef7119e",
+    "content-hash": "773da786008b8c08e8200783e09e0105",
     "packages": [
         {
             "name": "aetonsi/polyfills",
