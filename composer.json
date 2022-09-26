@@ -1,0 +1,28 @@
+{
+    "name": "aetonsi/traits",
+    "description": "various Traits under the namespace Aetonsi\\Traits\\",
+    "version": "0.0.1",
+    "type": "library",
+    "require": {
+        "php": ">=4",
+        "aetonsi/polyfills": "^0.0.1"
+    },
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "aetonsi",
+            "email": "18366087+aetonsi@users.noreply.github.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/aetonsi/aetonsi-polyfills"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aetonsi\\": "src/"
+        }
+    }
+}
